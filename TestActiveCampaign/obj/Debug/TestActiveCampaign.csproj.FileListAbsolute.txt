@@ -105,6 +105,5 @@ C:\Work\Temp\Core\ActiveCampaignRep\TestActiveCampaign\bin\Microsoft.Owin.Securi
 C:\Work\Temp\Core\ActiveCampaignRep\TestActiveCampaign\bin\Microsoft.Owin.Security.Google.xml
 C:\Work\Temp\Core\ActiveCampaignRep\TestActiveCampaign\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Work\Temp\Core\ActiveCampaignRep\TestActiveCampaign\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Work\Temp\Core\ActiveCampaignRep\TestActiveCampaign\obj\Debug\TestActiveCampaign.csprojResolveAssemblyReference.cache
 C:\Work\Temp\Core\ActiveCampaignRep\TestActiveCampaign\obj\Debug\TestActiveCampaign.dll
 C:\Work\Temp\Core\ActiveCampaignRep\TestActiveCampaign\obj\Debug\TestActiveCampaign.pdb
