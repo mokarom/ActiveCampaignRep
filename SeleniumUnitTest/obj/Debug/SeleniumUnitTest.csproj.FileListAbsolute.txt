@@ -1,7 +1,0 @@
-C:\Work\Temp\Core\ActiveCampaignRep\SeleniumUnitTest\bin\Debug\SeleniumUnitTest.dll
-C:\Work\Temp\Core\ActiveCampaignRep\SeleniumUnitTest\bin\Debug\SeleniumUnitTest.pdb
-C:\Work\Temp\Core\ActiveCampaignRep\SeleniumUnitTest\bin\Debug\WebDriver.dll
-C:\Work\Temp\Core\ActiveCampaignRep\SeleniumUnitTest\bin\Debug\WebDriver.xml
-C:\Work\Temp\Core\ActiveCampaignRep\SeleniumUnitTest\obj\Debug\SeleniumUnitTest.dll
-C:\Work\Temp\Core\ActiveCampaignRep\SeleniumUnitTest\obj\Debug\SeleniumUnitTest.pdb
-C:\Work\Temp\Core\ActiveCampaignRep\SeleniumUnitTest\obj\Debug\SeleniumUnitTest.csprojResolveAssemblyReference.cache

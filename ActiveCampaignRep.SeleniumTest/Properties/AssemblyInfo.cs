@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SeleniumUnitTest")]
+[assembly: AssemblyTitle("ActiveCampaignRep.SeleniumTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("SeleniumUnitTest")]
+[assembly: AssemblyProduct("ActiveCampaignRep.SeleniumTest")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("66e6116f-6e04-4806-b90f-7dc18c48e37f")]
+[assembly: Guid("25fc5b3f-a1b6-478f-af08-ebc8d66715da")]
 
 // Version information for an assembly consists of the following four values:
 //

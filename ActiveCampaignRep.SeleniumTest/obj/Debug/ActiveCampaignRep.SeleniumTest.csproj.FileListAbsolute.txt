@@ -1,0 +1,9 @@
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\ActiveCampaignRep.SeleniumTest.dll
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\ActiveCampaignRep.SeleniumTest.pdb
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\WebDriver.dll
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\WebDriver.xml
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\WebDriver.Support.xml
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\obj\Debug\ActiveCampaignRep.SeleniumTest.csprojResolveAssemblyReference.cache
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\obj\Debug\ActiveCampaignRep.SeleniumTest.dll
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\obj\Debug\ActiveCampaignRep.SeleniumTest.pdb
