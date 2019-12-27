@@ -20,7 +20,7 @@ namespace ActiveCampaignRep.SeleniumTest
             _browserDriver.Manage().Window.Maximize();
             _browserDriver.Navigate().GoToUrl(_webSiteUrl);
             _browserDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
-            //Assert.IsTrue(1==2);
+            Assert.IsTrue(1==2);
         }
     }
 }
