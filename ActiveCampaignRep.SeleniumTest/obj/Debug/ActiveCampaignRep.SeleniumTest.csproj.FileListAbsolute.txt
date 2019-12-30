@@ -4,6 +4,11 @@ C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\Web
 C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\WebDriver.Support.dll
 C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\WebDriver.xml
 C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\WebDriver.Support.xml
-C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\obj\Debug\ActiveCampaignRep.SeleniumTest.csprojResolveAssemblyReference.cache
 C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\obj\Debug\ActiveCampaignRep.SeleniumTest.dll
 C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\obj\Debug\ActiveCampaignRep.SeleniumTest.pdb
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\chromedriver.exe
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\obj\Debug\ActiveCampaignRep.SeleniumTest.csprojAssemblyReference.cache
+C:\Work\Temp\Core\ActiveCampaignRep\ActiveCampaignRep.SeleniumTest\obj\Debug\ActiveCampaignRep.SeleniumTest.csproj.CopyComplete

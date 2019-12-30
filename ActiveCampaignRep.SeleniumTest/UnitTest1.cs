@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Reflection;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
@@ -39,12 +41,18 @@ namespace ActiveCampaignRep.SeleniumTest
         [TestCategory("Chrome")]
         public void TheBingSearchTest()
         {
-            driver.Navigate().GoToUrl(appURL + "/");
-            driver.FindElement(By.Id("CampaignName")).SendKeys("Azure Pipelines");
-            //driver.FindElement(By.Id("sb_form_go")).Click();
-            //driver.FindElement(By.XPath("//ol[@id='b_results']/li/h2/a/strong[3]")).Click();
-            //Assert.IsTrue(driver.Title.Contains("Azure Pipelines"), "Verified title of the page");
-            Assert.IsTrue(true);
+            var chromeOptions = new ChromeOptions();
+            chromeOptions.AddArguments("headless");
+            using (driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), chromeOptions))
+            {
+                driver.Navigate().GoToUrl(appURL + "/");
+                driver.FindElement(By.Id("CampaignName")).SendKeys("Azure Pipelines");
+                //driver.FindElement(By.Id("sb_form_go")).Click();
+                //driver.FindElement(By.XPath("//ol[@id='b_results']/li/h2/a/strong[3]")).Click();
+                //Assert.IsTrue(driver.Title.Contains("Azure Pipelines"), "Verified title of the page");
+                Assert.IsTrue(true);
+            }
+           
         }
 
         /// <summary>
