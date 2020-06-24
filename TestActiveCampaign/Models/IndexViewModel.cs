@@ -16,7 +16,7 @@ namespace TestActiveCampaign.Models
         {
             List<SelectListItem> items = new List<SelectListItem>();
             List<string> temaplteNames = new List<string>();
-
+            //Test
             foreach (var temaplteName in temaplteNames)
             {
                 items.Add(new SelectListItem
